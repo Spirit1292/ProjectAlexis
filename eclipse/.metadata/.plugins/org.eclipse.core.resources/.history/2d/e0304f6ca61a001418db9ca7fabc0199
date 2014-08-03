@@ -1,0 +1,38 @@
+package spirit.noiremagic;
+
+import spirit.noiremagic.proxy.IProxy;
+import cpw.mods.fml.common.Mod;
+import cpw.mods.fml.common.SidedProxy;
+import cpw.mods.fml.common.event.FMLInitializationEvent;
+import cpw.mods.fml.common.event.FMLPostInitializationEvent;
+import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+
+@Mod(modid="NoireMagic", name="Noire Magic", version="1.7.2-0.1a")		
+public class NoireMagic 
+{
+	@Mod.Instance("NoireMagic")
+	public static NoireMagic instance;
+	
+	@SidedProxy(clientSide="spirit.noiremagic.proxy.ClientProxy", serverSide="spirit.noiremagic.proxy.ServerProxy")
+	public static IProxy proxy;
+	
+	@Mod.EventHandler
+	public void preInit(FMLPreInitializationEvent event)
+	{
+		
+	}
+	
+	@Mod.EventHandler
+	public void Init(FMLInitializationEvent event)
+	{
+		
+	}
+	
+	@Mod.EventHandler
+	public void postInit(FMLPostInitializationEvent event)
+	{
+		
+	}
+	
+
+}

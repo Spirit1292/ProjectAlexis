@@ -1,0 +1,17 @@
+[
+{
+  "modid": "NoireMagic",
+  "name": "Noire Magic",
+  "description": "Not yet ^.^",
+  "version": "1.7.2-0.1a",
+  "mcversion": "1.7.2",
+  "logoFile": "",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Spirit"],
+  "credits": "",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
