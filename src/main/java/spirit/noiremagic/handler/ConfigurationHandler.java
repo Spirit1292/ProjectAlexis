@@ -17,6 +17,7 @@ public class ConfigurationHandler
 		if (configuration == null)
         {
             configuration = new Configuration(configFile);
+            loadConfiguration();
         }
 	}
 
@@ -29,7 +30,7 @@ public class ConfigurationHandler
             }
         }
 
-    public void loadConfiguration()
+    private static void loadConfiguration()
     {
         testValue = configuration.getBoolean("ConfigValue",Configuration.CATEGORY_GENERAL, false, "This is just test of configuration value");
 
