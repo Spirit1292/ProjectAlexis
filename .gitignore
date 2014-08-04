@@ -14,6 +14,7 @@ hs_err_pid*
 # Eclipse folder
 eclipse/crash-reports
 eclipse/logs
+eclipse/config
 
 # =========================
 # Operating System Files
