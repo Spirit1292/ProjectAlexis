@@ -11,6 +11,10 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
+# Eclipse folder
+eclipse/crash-reports
+eclipse/logs
+
 # =========================
 # Operating System Files
 # =========================
@@ -51,7 +55,3 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
-
-# Eclipse folder
-eclipse/crash-reports
-eclipse/logs
