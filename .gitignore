@@ -16,6 +16,11 @@ eclipse/crash-reports
 eclipse/logs
 eclipse/config
 
+# Project files
+projectalexisjava.iws
+projectalexisjava.ipr
+projectalexisjava.iml
+
 # =========================
 # Operating System Files
 # =========================
