@@ -21,7 +21,14 @@ The assetDir is deprecated!  Use runDir instead! runDir set to eclipse/assets/..
 :mergeJars SKIPPED
 :deobfuscateJar SKIPPED
 :decompile SKIPPED
-:processSources SKIPPED
+:processSources
+Injecting fml files
+Applying fml patches
+Applying forge patches
+Patching failed: net/minecraft/world/gen/feature/WorldGenDungeons.java Cannot find hunk target
+  2: Cannot find hunk target @ 0
+  1/3 failed
+  Rejects written to D:\Projects\ProjectAlexisJava\build\tmp\expandedArchives\forgepatches.zip_2dnk8bnpf4plki86cgo7kt0d0q\net\minecraft\world\gen\feature\WorldGenDungeons.java.patch.rej
 :remapJar SKIPPED
 :extractMinecraftSrc SKIPPED
 :recompMinecraft SKIPPED
@@ -30,4 +37,4 @@ The assetDir is deprecated!  Use runDir instead! runDir set to eclipse/assets/..
 
 BUILD SUCCESSFUL
 
-Total time: 1 mins 11.671 secs
+Total time: 48.204 secs

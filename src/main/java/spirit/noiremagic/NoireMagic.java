@@ -1,6 +1,6 @@
 package spirit.noiremagic;
 
-import spirit.noiremagic.configuration.ConfigurationHandler;
+import spirit.noiremagic.handler.ConfigurationHandler;
 import spirit.noiremagic.proxy.IProxy;
 import spirit.noiremagic.reference.Reference;
 import cpw.mods.fml.common.Mod;
@@ -9,7 +9,7 @@ import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 
-@Mod(modid=Reference.MOD_ID, name=Reference.MOD_NAME, version=Reference.VERSION)		
+@Mod(modid=Reference.MOD_ID, name=Reference.MOD_NAME, version=Reference.VERSION, guiFactory = Reference.GUI_FACTORY_CLASS)
 public class NoireMagic 
 {
 	@Mod.Instance(Reference.MOD_ID)
@@ -20,21 +20,19 @@ public class NoireMagic
 	
 	@Mod.EventHandler
 	public void preInit(FMLPreInitializationEvent event)
-	{
-		ConfigurationHandler.init(event.getSuggestedConfigurationFile());
-	}
+	    {
+		    ConfigurationHandler.init(event.getSuggestedConfigurationFile());
+	    }
 	
 	@Mod.EventHandler
-	public void Init(FMLInitializationEvent event)
-	{
+    public void Init(FMLInitializationEvent event)
+	    {
 		
-	}
+	    }
 	
 	@Mod.EventHandler
 	public void postInit(FMLPostInitializationEvent event)
-	{
+	    {
 		
-	}
-	
-
+	    }
 }
