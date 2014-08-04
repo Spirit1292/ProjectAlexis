@@ -2,225 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4439411e-d2d5-45a1-b657-f1deb2777ada" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/spirit/noiremagic/client/gui/GuiFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/spirit/noiremagic/client/gui/ModGuiConfig.java" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.lock" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.log" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\11\a0614dfc901a00141b80ab47d536c704" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\12\b0e8bf673e1b00141e6e863c6159c4a4" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\14\20efc64e3e1b00141e6e863c6159c4a4" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\1a\a04230e3ae1a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\23\f04e4dcb981a00141b80ab47d536c704" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\2a\700757c89a1a00141b80ab47d536c704" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\2a\b0a864b4a11a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\2d\e0304f6ca61a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\32\4014cd04b11a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\35\30ebf9cbaf1a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\38\80fa0c96a01a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\3c\a0b6c54e3e1b00141e6e863c6159c4a4" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\43\30794416b01a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\4\403dc74e3e1b00141e6e863c6159c4a4" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\4a\b0d7de2db11a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\53\309f2534ae1a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\54\304ee454a21a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\55\c0c810f6921a00141b80ab47d536c704" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\5b\10afe38aa91a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\5c\a065ad24af1a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\5e\8068c54e3e1b00141e6e863c6159c4a4" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\64\9089931fab1a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\65\d0499d31b21a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\66\f095bdc2a81a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\6c\e086c076b11a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\72\90aab676ab1a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\7b\10c8c64e3e1b00141e6e863c6159c4a4" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\80\10b54e61ad1a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\81\60dffaa1a01a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\81\f079c64e3e1b00141e6e863c6159c4a4" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\83\002f28bda91a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\8a\c036a02fb11a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\8b\a0f0cf223f1b00141e6e863c6159c4a4" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\8b\f0f01f549b1a00141b80ab47d536c704" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\91\c01c02b1a11a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\92\40446d72af1a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\94\901419bd3d1b00141e6e863c6159c4a4" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\95\5065dc90a01a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\96\009bd77b3d1b00141e6e863c6159c4a4" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\97\00a43956ad1a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\98\c00644eda21a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\99\d02bc64e3e1b00141e6e863c6159c4a4" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\9\b0166e70a01a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\9c\408883fea01a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\a3\b04dc686a01a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\ad\40bdbb27921a00141b80ab47d536c704" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\b0\20aa438b3d1b00141e6e863c6159c4a4" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\b2\f06ef28faa1a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\b6\a01e1bfda01a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\b7\d0c0af43b21a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\b9\20e2218cae1a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\c1\b01f22ac3d1b00141e6e863c6159c4a4" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\c4\70f952f9a81a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\c6\a0b8e7ddae1a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\ce\b0b9a5cd9f1a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\d1\608bc74e3e1b00141e6e863c6159c4a4" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\d3\b059e8fda01a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\d5\20b59a99a01a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\dc\7031d78b961a00141b80ab47d536c704" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\e0\6017a7c7a51a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\e0\f0dd09e4a71a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\e8\b003c5d83e1b00141e6e863c6159c4a4" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\f2\b03070193f1b00141e6e863c6159c4a4" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\f3\b06b1b1eaf1a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\fa\70b2c74e3e1b00141e6e863c6159c4a4" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.history\fc\1010a788aa1a001418db9ca7fabc0199" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\.org.eclipse.jdt.core.external.folders\.location" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\NoireMagic\.indexes\7\history.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\NoireMagic\.indexes\b9\67\history.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\NoireMagic\.indexes\b9\c2\history.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\NoireMagic\.indexes\e4\b9\22\f6\history.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\NoireMagic\.indexes\e4\b9\22\f\92\6e\history.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\NoireMagic\.indexes\e4\b9\22\f\92\b5\history.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\NoireMagic\.indexes\e4\b9\22\f\92\f6\history.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\NoireMagic\.indexes\e4\b9\22\f\92\history.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\NoireMagic\.indexes\e4\b9\db\history.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\NoireMagic\.indexes\history.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\NoireMagic\.indexes\properties.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\NoireMagic\.location" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\NoireMagic\org.eclipse.egit.core\GitProjectData.properties" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.projects\NoireMagic\org.eclipse.jdt.core\state.dat" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.root\.indexes\history.version" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.root\.indexes\properties.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.root\.indexes\properties.version" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.root\3.tree" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.resources\.safetable\org.eclipse.core.resources" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.core.resources.prefs" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.debug.ui.prefs" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.egit.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.epp.usagedata.gathering.prefs" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.launching.prefs" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.jdt.ui.prefs" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.pde.api.tools.prefs" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.team.ui.prefs" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.editors.prefs" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.ide.prefs" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.core.runtime\.settings\org.eclipse.ui.prefs" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.debug.core\.launches\Client.launch" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.debug.core\.launches\New_configuration.launch" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.debug.core\.launches\Server.launch" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.debug.ui\dialog_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.debug.ui\launchConfigurationHistory.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.e4.workbench\workbench.xmi" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\.org.eclipse.jdt.core.external.folders\.project" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\1006631201.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\1030363191.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\103337914.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\1089149996.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\1244022644.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\1336290404.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\1369127545.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\1501884587.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\1528662079.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\1639684107.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\182735413.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\1932581800.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\195462254.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\2010491873.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\2025114090.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\2044149421.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\2083685241.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\2169152397.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\2289709268.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\2394657268.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\2423862704.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\2503134553.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\2562048227.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\2573849602.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\2580464264.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\2593576420.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\2705315894.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\2708055714.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\2817720600.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\2914244579.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\2935675416.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\2943934462.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\3024125552.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\3058808166.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\3075053866.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\3080305789.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\313546911.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\3167461448.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\3549880408.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\3829748403.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\3875648713.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\3926188048.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\4030295381.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\4092280877.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\4161098277.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\4183445374.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\4257325822.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\55669944.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\608026314.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\648820999.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\724144073.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\735681076.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\751176907.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\970502961.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\assumedExternalFilesCache" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\externalFilesCache" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\externalLibsTimeStamps" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\invalidArchivesCache" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\javaLikeNames.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\nonChainingJarsCache" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\savedIndexNames.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.core\variablesAndContainers.dat" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.debug.ui\dialog_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.launching\.install.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.launching\libraryInfos.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.ui\OpenTypeHistory.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.ui\QualifiedTypeNameHistory.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.jdt.ui\dialog_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\.workspace\2014\8\31\refactorings.history" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\.workspace\2014\8\31\refactorings.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\NoireMagic\2014\8\31\refactorings.history" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.ltk.core.refactoring\.refactorings\NoireMagic\2014\8\31\refactorings.index" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.ltk.ui.refactoring\dialog_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.pde.core\.cache\clean-cache.properties" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.ui.editors\dialog_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.ui.ide\dialog_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.ui.workbench\dialog_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\.plugins\org.eclipse.ui.workbench\workingsets.xml" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\.metadata\version.ini" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\NoireMagic\.project" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\config\forge.cfg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\config\forgeChunkLoading.cfg" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\crash-reports\crash-2014-08-03_22.28.35-client.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\crash-reports\crash-2014-08-03_22.35.20-client.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\logs\2014-08-03-1.log.gz" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\logs\2014-08-03-2.log.gz" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\logs\2014-08-03-3.log.gz" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\logs\2014-08-03-4.log.gz" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\logs\2014-08-03-5.log.gz" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\logs\2014-08-03-6.log.gz" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\logs\2014-08-03-7.log.gz" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\logs\fml-client-1.log" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\logs\fml-client-2.log" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\logs\fml-client-3.log" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\logs\fml-client-latest.log" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\logs\fml-junk-earlystartup.log" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\logs\latest.log" afterPath="" />
-      <change type="DELETED" beforePath="D:\Projects\ProjectAlexisJava\eclipse\options.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.classpath" afterPath="$PROJECT_DIR$/.classpath" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.project" afterPath="$PROJECT_DIR$/.project" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/spirit/noiremagic/NoireMagic.java" afterPath="$PROJECT_DIR$/src/main/java/spirit/noiremagic/NoireMagic.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/spirit/noiremagic/reference/Reference.java" afterPath="$PROJECT_DIR$/src/main/java/spirit/noiremagic/reference/Reference.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/mcmod.info" afterPath="$PROJECT_DIR$/src/main/resources/mcmod.info" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projectalexisjava.iml" afterPath="$PROJECT_DIR$/projectalexisjava.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projectalexisjava.ipr" afterPath="$PROJECT_DIR$/projectalexisjava.ipr" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-3.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/latest.log" afterPath="$PROJECT_DIR$/eclipse/logs/latest.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projectalexisjava.iws" afterPath="$PROJECT_DIR$/projectalexisjava.iws" />
-      <change type="MOVED" beforePath="D:\Projects\ProjectAlexisJava\src\main\java\spirit\noiremagic\configuration\ConfigurationHandler.java" afterPath="$PROJECT_DIR$/src/main/java/spirit/noiremagic/handler/ConfigurationHandler.java" />
     </list>
     <ignored path="projectalexisjava.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -275,8 +63,8 @@
         <option name="LOG_MESSAGE" value="" />
       </breakpoint>
     </breakpoint_any>
-    <breakpoint_rules converted="true" />
     <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
@@ -284,61 +72,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="NoireMagic.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="NoireMagic.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/spirit/noiremagic/NoireMagic.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="748">
+            <state vertical-scroll-proportion="0.103186645" vertical-offset="0" max-vertical-offset="659">
               <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="mcmod.info" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="374">
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Reference.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/spirit/noiremagic/reference/Reference.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-              <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GradleStart.class" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1180/start/GradleStart.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-13.64" vertical-offset="424" max-vertical-offset="867">
-              <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="NativeMethodAccessorImpl.class" pinned="false" current="true" current-in-tab="true">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_05/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.61752135" vertical-offset="0" max-vertical-offset="468">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="build.gradle" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1173">
-              <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -382,8 +120,9 @@
     <option name="LAST_EDITED_TAB_NAME" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="960" />
-    <option name="height" value="1040" />
+    <option name="x" value="768" />
+    <option name="width" value="768" />
+    <option name="height" value="832" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -404,7 +143,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1">
+    <navigator currentView="PackagesPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -516,6 +255,9 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope">
+        <subPane subId="Problems" />
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -568,7 +310,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -656,19 +397,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -694,6 +422,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -817,7 +558,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="960" height="1040" extended-state="1" />
+    <frame x="768" y="0" width="768" height="832" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -836,14 +577,14 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28555554" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.41409692" sideWeight="0.7076271" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2881356" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23743017" sideWeight="0.7076271" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32975295" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -873,6 +614,54 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/spirit/noiremagic/NoireMagic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spirit/noiremagic/reference/Reference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1180/start/GradleStart.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="782" max-vertical-offset="884">
+          <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_05/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="408">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="748" max-vertical-offset="1173">
+          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/spirit/noiremagic/NoireMagic.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="748">
@@ -909,9 +698,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="612">
           <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -927,9 +713,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="612">
           <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -945,9 +728,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="561">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1096,9 +876,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="799">
           <caret line="29" column="9" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1109,50 +886,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/spirit/noiremagic/NoireMagic.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_05/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.45333335" vertical-offset="0" max-vertical-offset="675">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="204" max-vertical-offset="1173">
-          <caret line="19" column="15" selection-start-line="19" selection-start-column="15" selection-end-line="19" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="374">
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/spirit/noiremagic/reference/Reference.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.38226745" vertical-offset="485" max-vertical-offset="1173">
+          <caret line="44" column="16" selection-start-line="44" selection-start-column="16" selection-end-line="44" selection-end-column="16" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/.gradle/caches/minecraft/net/minecraftforge/forge/1.7.10-10.13.0.1180/start/GradleStart.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-13.64" vertical-offset="424" max-vertical-offset="867">
+        <state vertical-scroll-proportion="0.84307694" vertical-offset="234" max-vertical-offset="884">
           <caret line="46" column="1" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_05/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
+    <entry file="file://$PROJECT_DIR$/src/main/java/spirit/noiremagic/reference/Reference.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.61752135" vertical-offset="0" max-vertical-offset="468">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.29651162" vertical-offset="0" max-vertical-offset="688">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/mcmod.info">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14825581" vertical-offset="0" max-vertical-offset="688">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/spirit/noiremagic/NoireMagic.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.103186645" vertical-offset="0" max-vertical-offset="659">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
           <folding />
         </state>
       </provider>
