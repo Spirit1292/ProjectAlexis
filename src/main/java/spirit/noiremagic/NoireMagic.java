@@ -8,6 +8,7 @@ import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
+import spirit.noiremagic.utility.LogHelper;
 
 @Mod(modid=Reference.MOD_ID, name=Reference.MOD_NAME, version=Reference.VERSION, guiFactory = Reference.GUI_FACTORY_CLASS)
 public class NoireMagic 
@@ -22,17 +23,18 @@ public class NoireMagic
 	public void preInit(FMLPreInitializationEvent event)
 	    {
 		    ConfigurationHandler.init(event.getSuggestedConfigurationFile());
+            LogHelper.info("Pre Initialization Complete");
 	    }
 	
 	@Mod.EventHandler
     public void Init(FMLInitializationEvent event)
 	    {
-		
+            LogHelper.info("Initialization Complete");
 	    }
 	
 	@Mod.EventHandler
 	public void postInit(FMLPostInitializationEvent event)
 	    {
-		
+            LogHelper.info("Post Initialization Complete");
 	    }
 }
