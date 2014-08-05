@@ -1,3 +1,10 @@
-item.noiremagic:Lorium.name=Lorium
-item.noiremagic:TestPickaxe.name=Pickaxe of DARKNESS!!!!!!
+# Creative Tabs
+itemGroup.noiremagic=Noire Magic
 
+
+# Items
+item.noiremagic:lorium.name=Lorium
+item.noiremagic:testPickaxe.name=Pickaxe of DARKNESS!!!!!!
+
+# Blocks
+tile.noiremagic:blockOfLorium.name=Block of Lorium
