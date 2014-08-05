@@ -2,6 +2,7 @@ package spirit.noiremagic;
 
 import cpw.mods.fml.common.FMLCommonHandler;
 import spirit.noiremagic.handler.ConfigurationHandler;
+import spirit.noiremagic.init.ModItems;
 import spirit.noiremagic.proxy.IProxy;
 import spirit.noiremagic.reference.Reference;
 import cpw.mods.fml.common.Mod;
@@ -25,7 +26,10 @@ public class NoireMagic
 	    {
 		    ConfigurationHandler.init(event.getSuggestedConfigurationFile());
             FMLCommonHandler.instance().bus().register(new ConfigurationHandler());
+
             LogHelper.info("Pre Initialization Complete");
+
+            ModItems.init();
 	    }
 	
 	@Mod.EventHandler
