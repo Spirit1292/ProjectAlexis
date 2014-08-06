@@ -12,6 +12,7 @@
 hs_err_pid*
 
 # Project folders
+.gradle
 eclipse/
 out/
 
