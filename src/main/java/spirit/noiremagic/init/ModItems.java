@@ -1,10 +1,7 @@
 package spirit.noiremagic.init;
 
 import cpw.mods.fml.common.registry.GameRegistry;
-import spirit.noiremagic.item.ItemIngotLorium;
-import spirit.noiremagic.item.ItemNuggetLorium;
-import spirit.noiremagic.item.ToolPickaxeLorium;
-import spirit.noiremagic.item.ToolShovelLorium;
+import spirit.noiremagic.item.*;
 import spirit.noiremagic.reference.Names;
 import spirit.noiremagic.reference.Reference;
 
@@ -16,7 +13,7 @@ public class ModItems
     public static final ItemNuggetLorium nuggetLorium = new ItemNuggetLorium();
     public static final ToolPickaxeLorium pickaxeLorium = new ToolPickaxeLorium();
     //public static final ToolSwordLorium swordLorium = new ToolSwordLorium();
-    //public static final ToolAxeLorium axeLorium = new ToolAxeLorium();
+    public static final ToolAxeLorium axeLorium = new ToolAxeLorium();
     public static final ToolShovelLorium shovelLorium = new ToolShovelLorium();
     //public static final ToolHoeLorium hoeLorium = new ToolHoeLorium();
 
@@ -27,6 +24,7 @@ public class ModItems
         GameRegistry.registerItem(nuggetLorium, Names.Items.NUGGET_LORIUM);
         GameRegistry.registerItem(pickaxeLorium, Names.Tools.PICKAXE_LORIUM);
         GameRegistry.registerItem(shovelLorium, Names.Tools.SHOVEL_LORIUM);
+        GameRegistry.registerItem(axeLorium, Names.Tools.AXE_LORIUM);
 
     }
 }

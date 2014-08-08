@@ -27,7 +27,7 @@ public class ToolShovelLorium extends ToolNM
             });
 
     public ToolShovelLorium() {
-        super(2f, Materials.Tools.LORIUM, blocksEffectiveAgainst);
+        super(1F, Materials.Tools.LORIUM, blocksEffectiveAgainst);
         this.setUnlocalizedName(Names.Tools.SHOVEL_LORIUM);
     }
 

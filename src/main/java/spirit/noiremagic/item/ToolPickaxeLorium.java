@@ -40,7 +40,7 @@ public class ToolPickaxeLorium extends ToolNM
             });
 
     public ToolPickaxeLorium() {
-        super(2f, Materials.Tools.LORIUM, blocksEffectiveAgainst);
+        super(2F, Materials.Tools.LORIUM, blocksEffectiveAgainst);
         this.setUnlocalizedName(Names.Tools.PICKAXE_LORIUM);
     }
 

@@ -1,5 +1,6 @@
 package spirit.noiremagic.init;
 
+import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.registry.GameRegistry;
 import net.minecraft.init.Blocks;
 import net.minecraft.init.Items;
@@ -21,6 +22,12 @@ public class Recipes
         // Lorium shovel
         GameRegistry.addRecipe(new ItemStack(ModItems.shovelLorium),
                 " l ", " s ", " s ",
+                's', new ItemStack(Items.stick),
+                'l', new ItemStack(ModItems.ingotLorium));
+
+        // Lorium axe
+        GameRegistry.addRecipe(new ItemStack(ModItems.axeLorium),
+                "ll ", "ls ", " s ",
                 's', new ItemStack(Items.stick),
                 'l', new ItemStack(ModItems.ingotLorium));
 
