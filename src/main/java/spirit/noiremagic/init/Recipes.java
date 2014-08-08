@@ -18,7 +18,7 @@ public class Recipes
                 's', new ItemStack(Items.stick),
                 'l', new ItemStack(ModItems.ingotLorium));
 
-        // Lorium Shovel
+        // Lorium shovel
         GameRegistry.addRecipe(new ItemStack(ModItems.shovelLorium),
                 " l ", " s ", " s ",
                 's', new ItemStack(Items.stick),
@@ -29,6 +29,11 @@ public class Recipes
                 "lll", "lll", "lll",
                 'l', new ItemStack(ModItems.ingotLorium));
 
+        // 9 x Lorium nuggets > Lorium ingot
+        GameRegistry.addRecipe(new ItemStack(ModItems.ingotLorium),
+                "nnn", "nnn", "nnn",
+                'n', new ItemStack(ModItems.nuggetLorium));
+
         // Shapeless recipes
         // Lorium ingot
         GameRegistry.addShapelessRecipe(new ItemStack(ModItems.ingotLorium),
@@ -38,6 +43,10 @@ public class Recipes
         // Block of lorium > 9 x Lorium ingot
         GameRegistry.addShapelessRecipe(new ItemStack(ModItems.ingotLorium, 9),
                 new ItemStack(ModBlocks.blockLorium));
+
+        // Lorium ingot > 9 x Lorium nuggets
+        GameRegistry.addShapelessRecipe(new ItemStack(ModItems.nuggetLorium, 9),
+                new ItemStack(ModItems.ingotLorium));
 
         // Shaped ore recipes
         // Diamond
