@@ -3,6 +3,7 @@ itemGroup.noiremagic=Noire Magic
 
 # Items
 item.noiremagic:ingotLorium.name=Lorium Ingot
+item.noiremagic:nuggetLorium.name=Lorium Nugget
 
 # Tools
 tool.noiremagic:pickaxeLorium.name=Lorium Pickaxe
