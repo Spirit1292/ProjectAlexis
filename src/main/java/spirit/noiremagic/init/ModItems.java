@@ -1,19 +1,29 @@
 package spirit.noiremagic.init;
 
 import cpw.mods.fml.common.registry.GameRegistry;
-import spirit.noiremagic.item.ItemLorium;
-import spirit.noiremagic.item.ItemTestPickaxe;
+import spirit.noiremagic.item.ItemIngotLorium;
+import spirit.noiremagic.item.ToolPickaxeLorium;
+import spirit.noiremagic.item.ToolShovelLorium;
+import spirit.noiremagic.reference.Names;
 import spirit.noiremagic.reference.Reference;
 
 @GameRegistry.ObjectHolder(Reference.MOD_ID)
 public class ModItems
 {
-    public static final ItemLorium lorium = new ItemLorium();
-    public static final ItemTestPickaxe testPickaxe = new ItemTestPickaxe();
+    // Adding a lot of some items
+    public static final ItemIngotLorium ingotLorium = new ItemIngotLorium();
+    public static final ToolPickaxeLorium pickaxeLorium = new ToolPickaxeLorium();
+    //public static final ToolSwordLorium swordLorium = new ToolSwordLorium();
+    //public static final ToolAxeLorium axeLorium = new ToolAxeLorium();
+    public static final ToolShovelLorium shovelLorium = new ToolShovelLorium();
+    //public static final ToolHoeLorium hoeLorium = new ToolHoeLorium();
 
     public static void init()
     {
-        GameRegistry.registerItem(lorium, "Lorium");
-        GameRegistry.registerItem(testPickaxe, "TestPickaxe");
+        // Add items in Minecraft
+        GameRegistry.registerItem(ingotLorium, Names.Items.INGOT_LORIUM);
+        GameRegistry.registerItem(pickaxeLorium, Names.Tools.PICKAXE_LORIUM);
+        GameRegistry.registerItem(shovelLorium, Names.Tools.SHOVEL_LORIUM);
+
     }
 }
