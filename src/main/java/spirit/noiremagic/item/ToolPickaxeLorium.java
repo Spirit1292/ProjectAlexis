@@ -4,6 +4,7 @@ import com.google.common.collect.ImmutableSet;
 import com.google.common.collect.Sets;
 import net.minecraft.init.Blocks;
 import net.minecraft.item.ItemStack;
+import spirit.noiremagic.item.core.ToolNM;
 import spirit.noiremagic.reference.Materials;
 import spirit.noiremagic.reference.Names;
 import net.minecraft.block.Block;

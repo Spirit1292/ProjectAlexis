@@ -5,7 +5,6 @@ import spirit.noiremagic.handler.ConfigurationHandler;
 import spirit.noiremagic.init.ModBlocks;
 import spirit.noiremagic.init.ModItems;
 import spirit.noiremagic.init.Recipes;
-import spirit.noiremagic.item.ToolNM;
 import spirit.noiremagic.proxy.IProxy;
 import spirit.noiremagic.reference.Reference;
 import cpw.mods.fml.common.Mod;
