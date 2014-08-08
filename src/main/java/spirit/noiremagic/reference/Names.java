@@ -34,4 +34,13 @@ public class Names
         public static final String ARMOR_LORIUM = "armorLorium";
 
     }
+
+    public static final class TomeNoire
+    {
+        public static final String CATEGORY_PREFIX = "noiremagic.category.";
+
+        public static final String CATEGORY_BASICS = CATEGORY_PREFIX + "basics";
+
+        public static final String BASICS_LORIUM = "lorium";
+    }
 }
