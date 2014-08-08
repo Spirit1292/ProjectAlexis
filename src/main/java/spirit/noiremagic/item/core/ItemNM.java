@@ -1,4 +1,4 @@
-package spirit.noiremagic.item;
+package spirit.noiremagic.item.core;
 
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
