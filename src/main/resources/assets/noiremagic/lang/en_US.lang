@@ -2,8 +2,14 @@
 itemGroup.noiremagic=Noire Magic
 
 # Items
-item.noiremagic:lorium.name=Lorium
-item.noiremagic:testPickaxe.name=Pickaxe of DARKNESS!!!!!!
+item.noiremagic:ingotLorium.name=Lorium Ingot
+
+# Tools
+tool.noiremagic:pickaxeLorium.name=Lorium Pickaxe
+tool.noiremagic:swordLorium.name=Lorium Sword
+tool.noiremagic:axeLorium.name=Lorium Axe
+tool.noiremagic:shovelLorium.name=Lorium Shovel
+tool.noiremagic:hoeLorium.name=Lorium Hoe
 
 # Blocks
-tile.noiremagic:blockOfLorium.name=Block of Lorium
+tile.noiremagic:blockLorium.name=Block of Lorium
