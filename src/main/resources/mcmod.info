@@ -8,8 +8,8 @@
   "logoFile": "assets/noiremagic/textures/logo.png",
   "url": "",
   "updateUrl": "",
-  "authorList": ["Spirit"],
-  "credits": "",
+  "authorList": "",
+  "credits": "Created by Spirit",
   "parent": "",
   "screenshots": [],
   "dependencies": []
