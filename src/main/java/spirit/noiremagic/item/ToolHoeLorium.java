@@ -1,22 +1,23 @@
-package spirit.noiremagic.item.core;
+package spirit.noiremagic.item;
 
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraft.client.renderer.texture.IIconRegister;
+import net.minecraft.item.ItemHoe;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemTool;
 import spirit.noiremagic.creativetab.CreativeTabNM;
+import spirit.noiremagic.reference.Materials;
+import spirit.noiremagic.reference.Names;
 import spirit.noiremagic.reference.Textures;
-import spirit.noiremagic.utility.LogHelper;
 
-import java.util.Set;
-
-public class ToolNM extends ItemTool
+public class ToolHoeLorium extends ItemHoe
 {
-    public ToolNM(float damageVsEntity, ItemTool.ToolMaterial toolMaterial, Set blocksEffectiveAgainst)
+    public ToolHoeLorium()
     {
-        super(damageVsEntity,toolMaterial, blocksEffectiveAgainst);
+        super(Materials.Tools.LORIUM);
         this.setCreativeTab(CreativeTabNM.NM_TAB);
+        this.setUnlocalizedName(Names.Tools.HOE_LORIUM);
+        this.maxStackSize = 1;
     }
 
     @Override
@@ -36,7 +37,6 @@ public class ToolNM extends ItemTool
     public void registerIcons(IIconRegister iconRegister)
     {
         itemIcon = iconRegister.registerIcon(this.getUnlocalizedName().substring(this.getUnlocalizedName().indexOf(".") + 1));
-        LogHelper.info("Icon for tools : " + itemIcon.getIconName());
     }
 
     protected String getUnwrappedUnlocalizedName(String unlocalizedName)
@@ -57,11 +57,10 @@ public class ToolNM extends ItemTool
     }
 
     /**
-    @Override
-    public double getDurabilityForDisplay(ItemStack itemStack)
-    {
+     @Override
+     public double getDurabilityForDisplay(ItemStack itemStack)
+     {
 
-    }
-    */
+     }
+     */
 }
-

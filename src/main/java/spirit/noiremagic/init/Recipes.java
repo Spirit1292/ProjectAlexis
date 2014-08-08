@@ -31,6 +31,18 @@ public class Recipes
                 's', new ItemStack(Items.stick),
                 'l', new ItemStack(ModItems.ingotLorium));
 
+        // Lorium sword
+        GameRegistry.addRecipe(new ItemStack(ModItems.swordLorium),
+                " l ", " l ", " s ",
+                's', new ItemStack(Items.stick),
+                'l', new ItemStack(ModItems.ingotLorium));
+
+        // Lorium hoe
+        GameRegistry.addRecipe(new ItemStack(ModItems.hoeLorium),
+                "ll ", " s ", " s ",
+                's', new ItemStack(Items.stick),
+                'l', new ItemStack(ModItems.ingotLorium));
+
         // Block of lorium
         GameRegistry.addRecipe(new ItemStack(ModBlocks.blockLorium),
                 "lll", "lll", "lll",
